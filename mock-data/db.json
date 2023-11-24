@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "Eric",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "Adam",
+      "age": 30
+    }
+  ]
+}
