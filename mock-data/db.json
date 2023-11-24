@@ -15,5 +15,15 @@
       "name": "Adam",
       "age": 30
     }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "name": "channel1"
+    },
+    {
+      "id": 2,
+      "name": "channel2"
+    }
   ]
 }
